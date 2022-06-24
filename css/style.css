@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+
+    background:
+    url("../img/14203052.jpg");
+
+
+    font-family: Arial;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 20px 20px
+    #ccc;
+    border-radius: 20px;
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 30px;
+    text-align: center;
+    color:rgb(74, 0, 88)
+}
+.card-text {
+    text-align: center;
+    font-size: 24px;
+}
+.card-subtitle {
+    font-size: 24px;
+    color:rgb(102, 9, 90)
+}
+.card-list {
+    padding-left: 0;
+    list-style-position:
+    inside;
+    font-size: 18px;
+}
